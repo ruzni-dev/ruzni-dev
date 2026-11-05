@@ -189,18 +189,23 @@ Exploring application development, object-oriented programming, database managem
 <div align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=ruzni-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-alt="GitHub Statistics"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=github_dark"/>
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzni-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-alt="Top Languages"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=github_dark"/>
+
+<br/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=github_dark"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=github_dark&utcOffset=5.5"/>
 
 <br/><br/>
 
-<img width="80%"
-src="https://streak-stats.demolab.com/?user=ruzni-dev&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
+<img width="85%"
+src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
