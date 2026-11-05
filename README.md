@@ -186,48 +186,39 @@ Exploring application development, object-oriented programming, database managem
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-
 <!-- ROW 1: FULL WIDTH -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="100%" />
+</p>
 
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"
-alt="Profile Details"/>
+<!-- ROW 2: TWO COLUMNS -->
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi" width="100%" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<!-- ROW 2: TWO CARDS -->
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi"
-alt="GitHub Stats"/>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi"
-alt="Repositories Per Language"/>
-
-<br/><br/>
-
-<!-- ROW 3: TWO CARDS -->
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi"
-alt="Most Commit Language"/>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5"
-alt="Productive Time"/>
-
-<br/><br/>
+<!-- ROW 3: TWO COLUMNS -->
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5" width="100%" />
+</td>
+</tr>
+</table>
 
 <!-- ROW 4: FULL WIDTH -->
-
-<img width="85%"
-src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true" width="85%" />
+</p>
 ## 🔥 Contribution Activity
 
 <div align="center">
