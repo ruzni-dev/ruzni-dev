@@ -188,7 +188,7 @@ Exploring application development, object-oriented programming, database managem
 
 <!-- ROW 1: FULL WIDTH -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="70%" />
 </p>
 
 <!-- ROW 2: TWO COLUMNS -->
