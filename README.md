@@ -197,7 +197,7 @@ Exploring application development, object-oriented programming, database managem
 <td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="100%" />
 </td>
-<td width="25%" style{border="none"}>
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi" width="100%" />
 </td>
 </tr>
