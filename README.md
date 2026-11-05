@@ -184,13 +184,23 @@ Exploring application development, object-oriented programming, database managem
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruzni-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=ruzni-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzni-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzni-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="80%"
+src="https://streak-stats.demolab.com/?user=ruzni-dev&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
 
