@@ -188,12 +188,12 @@ Exploring application development, object-oriented programming, database managem
 
 <!-- ROW 1: FULL WIDTH -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="75%" />
 </p>
 
 <!-- ROW 2: TWO COLUMNS -->
 <table align="center">
-<tr width="50%">
+<tr>
 <td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="100%" />
 </td>
