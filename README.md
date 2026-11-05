@@ -188,21 +188,21 @@ Exploring application development, object-oriented programming, database managem
 
 <div align="center">
   
-<img width="100%"
+<img width="50%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
+<img width="30%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
+<img width="30%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi"/>
 
 <br/>
 
-<img width="40%"
+<img width="30%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
+<img width="30%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=0"/>
 
 <br/><br/>
