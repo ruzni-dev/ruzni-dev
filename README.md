@@ -186,7 +186,7 @@ Exploring application development, object-oriented programming, database managem
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div >
+<div display="flex">
   
 <img width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"/>
