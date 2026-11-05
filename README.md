@@ -195,10 +195,10 @@ Exploring application development, object-oriented programming, database managem
 <table align="center">
 <tr>
 <td width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="50%" />
 </td>
 <td width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi" width="50%" />
 </td>
 </tr>
 </table>
@@ -207,10 +207,10 @@ Exploring application development, object-oriented programming, database managem
 <table align="center">
 <tr>
 <td width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi" width="50%" />
 </td>
 <td width="25%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5" width="50%" />
 </td>
 </tr>
 </table>
