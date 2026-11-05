@@ -186,24 +186,24 @@ Exploring application development, object-oriented programming, database managem
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div display="flex">
+<div align="center">
   
 <img width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=github_dark"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=github_dark"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi"/>
 
 <br/>
 
-<img width="40%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=github_dark"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi"/>
 
-<img width="40%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=github_dark&utcOffset=5.5"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=0"/>
 
 <br/><br/>
 
