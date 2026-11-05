@@ -211,7 +211,7 @@ Exploring application development, object-oriented programming, database managem
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ruzni-dev/ruzni-dev/output/github-contribution-grid-snake-dark.svg"/>
-<img src="https://raw.githubusercontent.com/jafeerabdullah/jafeerabdullah/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/ruzni-dev/ruzni-dev/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
