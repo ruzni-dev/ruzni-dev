@@ -187,32 +187,46 @@ Exploring application development, object-oriented programming, database managem
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  
-<img width="50%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"/>
 
-<img width="30%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi"/>
+<!-- ROW 1: FULL WIDTH -->
 
-<img width="30%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi"/>
-
-<br/>
-
-<img width="30%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi"/>
-
-<img width="30%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=0"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi"
+alt="Profile Details"/>
 
 <br/><br/>
 
+<!-- ROW 2: TWO CARDS -->
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi"
+alt="GitHub Stats"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi"
+alt="Repositories Per Language"/>
+
+<br/><br/>
+
+<!-- ROW 3: TWO CARDS -->
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi"
+alt="Most Commit Language"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5"
+alt="Productive Time"/>
+
+<br/><br/>
+
+<!-- ROW 4: FULL WIDTH -->
+
 <img width="85%"
-src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"/>
 
 </div>
-
----
 
 ## 🔥 Contribution Activity
 
