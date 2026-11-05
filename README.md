@@ -188,16 +188,16 @@ Exploring application development, object-oriented programming, database managem
 
 <!-- ROW 1: FULL WIDTH -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzni-dev&theme=holi" width="50%" />
 </p>
 
 <!-- ROW 2: TWO COLUMNS -->
 <table align="center">
 <tr>
-<td width="50%">
+<td width="250%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzni-dev&theme=holi" width="100%" />
 </td>
-<td width="50%">
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruzni-dev&theme=holi" width="100%" />
 </td>
 </tr>
@@ -206,19 +206,15 @@ Exploring application development, object-oriented programming, database managem
 <!-- ROW 3: TWO COLUMNS -->
 <table align="center">
 <tr>
-<td width="50%">
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzni-dev&theme=holi" width="100%" />
 </td>
-<td width="50%">
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzni-dev&theme=holi&utcOffset=5.5" width="100%" />
 </td>
 </tr>
 </table>
 
-<!-- ROW 4: FULL WIDTH -->
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ruzni-dev&theme=tokyonight&hide_border=true" width="85%" />
-</p>
 ## 🔥 Contribution Activity
 
 <div align="center">
